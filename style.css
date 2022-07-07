@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sec1{
+    width: 100%;
+    height: 800px;
+    background-image: url("images/banner.jpg");
+    overflow: auto;
+}
+.myimg img{
+    width: 300px;
+    height: 300px;
+    border: 5px solid #39395f;
+    margin-top: 200px;
+}
+.wcolor{
+    color: #CDBE78;
+    margin-top: 10px;
+}
+.bcolor{
+    color: #051367;
+    font-size: 30px;
+}
+.icon li{
+    display: inline-block;
+    margin: 10px 5px;
+    background-color: #B7D3DF;
+    border-radius: 20px;
+}
+.icon li a:hover{
+    display: inline-block;
+    margin: 10px 5px;
+    background-color: #CDBE78;
+    border-radius: 50%;
+}
+.fsize{
+    font-size: 34px;
+}
+.fsize li{
+    margin: auto 30px;
+}
+.fsize li a:hover{
+    font-size: 30px;
+    background-color: #377D71;
+}
+.sec3{
+    background-color: #FFEEEE;
+}
+.w100{
+    width: 100%;
+}
+.kulveerimg img{
+    width: 100%;
+}
+.padding{
+    padding: 0px 50px 50px 50px;
+}
+.sec4{
+    width: 100%;
+    background-color: #F8F9D7;
+}
+@media screen and (max-width: 767px) {
+    .padding{
+        padding: 50px;
+    }
+}
+.sec4{
+    background-color: #C9BBCF;
+}
+.icon4 img{
+    width: 40px;
+    height: 40px;
+}
+.egcolor{
+    font-size: 25px;
+    color: #8E3200;
+}
+.bgskill{
+    background-image: url(images/banner.jpg);
+}
+.sec5{
+    width: 100%;
+    background-color: #F37878;
+}
+.sec6{
+    background-color: #00FFC6;
+}
+.sec7{
+    background-color: #FFEEEE;
+}
+.ficon img{
+    width: 40px;
+    height: 40px;
+}
+.bgcolor{
+    background-color: #BB9981;
+}
+.bgcolor:hover{
+    background-color: #e3f2fd;
+    color: #03614c;
+    cursor: pointer;
+}
+.d-flex{
+    justify-content: space-between;
+}
+.sec8{
+    background-color: #e3f2fd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .div80{
+    width: 80%;
+    margin: auto;
+    box-sizing: border-box;
+ 
+}
+.div40{
+    width: 40%;
+    display: inline-block;
+}
+.div40 img{
+    width: 100%;
+    height: auto;
+}
+.div60{
+    width: 60%;
+    padding-left: 102px;
+    float: right;
+} */
